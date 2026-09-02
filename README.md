@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nitishkumar-sepia.vercel.app">
+  <a href="https://portfolio-nitishkumar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/nitish1445/">
