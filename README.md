@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
+<h1 align="center">Hi, I'm Nitish Kumar</h1>
 
-<h3 align="center">Full Stack Developer • MERN Stack • Future Software Engineer</h3>
+<h3 align="center">Full Stack Developer • Specialized in MERN • Future Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real-World+Applications;Creating+Scalable+Web+Experiences;Always+Learning+New+Technologies&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Building+Real-World+Applications;Creating+Scalable+Web+Experiences;Always+Learning+New+Technologies&center=true&width=600&height=50">
 </p>
 
 <p align="center">
@@ -82,6 +82,56 @@ I'm a passionate **Full Stack Developer** focused on building scalable, user-fri
 
 # 🚀 Featured Projects
 
+### 🍔 CraveIT :- Food Discovery & Ordering Platform
+
+> A modern full-stack food platform focused on providing a smooth food discovery, restaurant browsing, and ordering experience.
+
+**✨ Key Features**
+
+* 🍕 Explore restaurants and food items
+* 🛒 Smart cart management
+* 🔐 Secure user authentication
+* 📦 Seamless ordering experience
+* ⚡ Fast and responsive UI
+* 🎨 Modern user-centric interface
+
+**🛠️ Built With**
+
+`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
+
+<p>
+  <a href="https://craveit-food.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_CraveIT-success?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💬 Converse :- Real-Time Chat Application
+
+> A modern real-time communication platform designed to deliver seamless, fast, and interactive messaging experiences.
+
+**✨ Key Features**
+
+* 💬 Real-time messaging experience
+* 🔐 Secure user authentication
+* 👤 User account management
+* ⚡ Fast and responsive interface
+* 🔄 Smooth communication workflow
+* 📱 Mobile-friendly modern UI
+
+**🛠️ Built With**
+
+`React` • `Node.js` • `Express.js` • `MongoDB`
+
+<p>
+  <a href="https://converse-chatapp-project.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Converse-success?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🏋️ HealthUP — Adaptive Fitness Intelligence Platform
 
 > An AI-powered fitness platform designed to provide personalized workout, diet, and health recommendations based on individual user data and goals.
@@ -107,71 +157,6 @@ I'm a passionate **Full Stack Developer** focused on building scalable, user-fri
 
 ---
 
-### 💬 Converse — Real-Time Chat Application
-
-> A modern real-time communication platform designed to deliver seamless, fast, and interactive messaging experiences.
-
-**✨ Key Features**
-
-* 💬 Real-time messaging experience
-* 🔐 Secure user authentication
-* 👤 User account management
-* ⚡ Fast and responsive interface
-* 🔄 Smooth communication workflow
-* 📱 Mobile-friendly modern UI
-
-**🛠️ Built With**
-
-`React` • `Node.js` • `Express.js` • `MongoDB`
-
-<p>
-  <a href="https://converse-chatapp-project.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_Converse-success?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🍔 CraveIT — Food Discovery & Ordering Platform
-
-> A modern full-stack food platform focused on providing a smooth food discovery, restaurant browsing, and ordering experience.
-
-**✨ Key Features**
-
-* 🍕 Explore restaurants and food items
-* 🛒 Smart cart management
-* 🔐 Secure user authentication
-* 📦 Seamless ordering experience
-* ⚡ Fast and responsive UI
-* 🎨 Modern user-centric interface
-
-**🛠️ Built With**
-
-`React` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB`
-
-<p>
-  <a href="https://craveit-food.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-Visit_CraveIT-success?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nitish1445&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish1445&layout=compact&theme=transparent&hide_border=true" 
-    height="170"
-  />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -181,7 +166,7 @@ I'm a passionate **Full Stack Developer** focused on building scalable, user-fri
   <a href="https://www.linkedin.com/in/nitish1445/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://nitishkumar-sepia.vercel.app">
+  <a href="https://portfolio-nitishkumar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
